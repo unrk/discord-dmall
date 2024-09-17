@@ -1,14 +1,3 @@
-# discord-dmall
-DMall is a simple discord.js bot that DM all the users from a server.
-
-Originally created with <3 by [Ituriel](https://github.com/nulledituriel).
-
-This is the original source code, make sure you follow the licence when you're using it.
-
-# Disclaimer
-
-**THIS PROGRAM IS FOR EDUCATIONAL PURPOSES ONLY. IT IS EXPLOITING DISCORD API.**
-
 # Usage
 Before editing this source code, in order to follow GPL license, make sure to fork it and mention that it is open source please.
 
